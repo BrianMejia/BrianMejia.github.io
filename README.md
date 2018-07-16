@@ -1,3 +1,5 @@
+Using the Hydeout theme to make a small blog, hopefully to document all of my projects. Checkout the project [here](https://github.com/fongandrew/hydeout), and its README below.
+
 # Hydeout
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
